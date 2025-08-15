@@ -81,6 +81,12 @@ __pycache__/
 4. **Get recommendations:** Click "Recommend Jobs" to see personalized matches.
 5. **Download results:** Export recommendations as CSV.
 
+<img width="1804" height="860" alt="Screenshot 2025-08-15 234859" src="https://github.com/user-attachments/assets/25afc648-6099-4b15-a6fd-c507be74ea05" />
+
+<img width="1798" height="815" alt="Screenshot 2025-08-15 235010" src="https://github.com/user-attachments/assets/8621e70e-c0a2-453d-b205-8e5d8c0e1302" />
+
+<img width="1784" height="769" alt="Screenshot 2025-08-15 235025" src="https://github.com/user-attachments/assets/21f21d5e-1268-470c-8677-5d1e98d524b7" />
+
 ---
 
 ## Notes
