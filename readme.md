@@ -1,7 +1,10 @@
 # AI Job Recommendation System (LangChain + Groq)
 
 
-[![Demo Video](![ChatGPT Image Aug 16, 2025, 01_00_48 AM](https://github.com/user-attachments/assets/a7c478de-edb4-46e2-a070-485e6cbaf31a))](https://youtu.be/InBFACSjXbg)
+<a href="https://youtu.be/InBFACSjXbg">
+  <img src="https://github.com/user-attachments/assets/a7c478de-edb4-46e2-a070-485e6cbaf31a" alt="🎬 Watch Demo Video" width="200">
+</a>
+
 
 
 
