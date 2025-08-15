@@ -75,13 +75,13 @@ __pycache__/
 
 ## Usage
 
-1. **Enter your profile:** Fill in your skills, experience, and preferences.
+1. **Enter your profile:** Fill in your skills, experience, and preferences. <img width="1804" height="860" alt="Screenshot 2025-08-15 234859" src="https://github.com/user-attachments/assets/25afc648-6099-4b15-a6fd-c507be74ea05" />
 2. **Upload your resume (optional):** PDF or TXT supported.
 3. **Load jobs:** Click "Load Jobs & Build Index" to fetch and index jobs.
 4. **Get recommendations:** Click "Recommend Jobs" to see personalized matches.
 5. **Download results:** Export recommendations as CSV.
 
-<img width="1804" height="860" alt="Screenshot 2025-08-15 234859" src="https://github.com/user-attachments/assets/25afc648-6099-4b15-a6fd-c507be74ea05" />
+
 
 <img width="1798" height="815" alt="Screenshot 2025-08-15 235010" src="https://github.com/user-attachments/assets/8621e70e-c0a2-453d-b205-8e5d8c0e1302" />
 
