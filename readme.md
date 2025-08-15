@@ -1,6 +1,6 @@
 # AI Job Recommendation System (LangChain + Groq)
 
-
+**🎬 Watch Demo Video**
 <a href="https://youtu.be/InBFACSjXbg">
   <img src="https://github.com/user-attachments/assets/a7c478de-edb4-46e2-a070-485e6cbaf31a" alt="🎬 Watch Demo Video" width="200">
 </a>
