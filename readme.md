@@ -1,5 +1,12 @@
 # AI Job Recommendation System (LangChain + Groq)
 
+
+[![Demo Video](![ChatGPT Image Aug 16, 2025, 01_00_48 AM](https://github.com/user-attachments/assets/a7c478de-edb4-46e2-a070-485e6cbaf31a))](https://youtu.be/InBFACSjXbg)
+
+
+
+
+
 This project is an AI-powered job recommendation system that leverages [LangChain](https://github.com/langchain-ai/langchain), [Groq](https://groq.com/), and vector search (FAISS) to match users with relevant job postings based on their profile, skills, preferences, and resume.
 
 ---
@@ -77,15 +84,15 @@ __pycache__/
 
 1. **Enter your profile:** Fill in your skills, experience, and preferences. <img width="1804" height="860" alt="Screenshot 2025-08-15 234859" src="https://github.com/user-attachments/assets/25afc648-6099-4b15-a6fd-c507be74ea05" />
 2. **Upload your resume (optional):** PDF or TXT supported.
-3. **Load jobs:** Click "Load Jobs & Build Index" to fetch and index jobs.
-4. **Get recommendations:** Click "Recommend Jobs" to see personalized matches.
+3. **Load jobs:** Click "Load Jobs & Build Index" to fetch and index jobs.<img width="1798" height="815" alt="Screenshot 2025-08-15 235010" src="https://github.com/user-attachments/assets/8621e70e-c0a2-453d-b205-8e5d8c0e1302" />
+4. **Get recommendations:** Click "Recommend Jobs" to see personalized matches.<img width="1784" height="769" alt="Screenshot 2025-08-15 235025" src="https://github.com/user-attachments/assets/21f21d5e-1268-470c-8677-5d1e98d524b7" />
 5. **Download results:** Export recommendations as CSV.
 
 
 
-<img width="1798" height="815" alt="Screenshot 2025-08-15 235010" src="https://github.com/user-attachments/assets/8621e70e-c0a2-453d-b205-8e5d8c0e1302" />
 
-<img width="1784" height="769" alt="Screenshot 2025-08-15 235025" src="https://github.com/user-attachments/assets/21f21d5e-1268-470c-8677-5d1e98d524b7" />
+
+
 
 ---
 
